@@ -44,7 +44,7 @@ Love_Choice/
 
 ## License
 
-MIT License © [Iamb1yat](https://github.com/Iamb1yat)
+MIT License © [b1yat](https://github.com/Iamb1yat)
 
 ## 支持
 
