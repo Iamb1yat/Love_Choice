@@ -4,7 +4,7 @@
 
 > "有时候，表达爱意需要一点小创意和大勇气 ❤️"
 
-## 功能特点
+## 🌟 功能特点
 
 - 可爱的动画表情
 - 粉色温馨背景
@@ -12,7 +12,7 @@
 - 互动式的选择按钮
 - 有趣的按钮交互效果
 
-## 文件结构
+## 📂 文件结构
 
 ```
 Love_Choice/
@@ -28,25 +28,26 @@ Love_Choice/
     └── hug.png     # 拥抱图片
 ```
 
-## 使用方法
+## 🚀 使用方法
 
 直接打开`index.html`文件即可在浏览器中查看效果。
 
-## 预览
+## 🎉 预览
 
 当你打开页面时，会看到一个可爱的问题："可以成为我的恋人吗？"
 - 点击"可以"按钮会显示开心的结果
 - 点击"不要"按钮会有意想不到的有趣反应
 
-## 在线演示
+## 🔗 相关链接
 
-[点击这里查看在线演示](https://iamb1yat.github.io/Love_Choice/)
+- [在线演示](https://iamb1yat.github.io/Love_Choice/)
+- [项目介绍](https://iamb1yat.github.io/2025/02/14/Love_Choice/)
 
-## License
+## 📄 许可证
 
 MIT License © [b1yat](https://github.com/Iamb1yat)
 
-## 支持
+## 💖 支持
 
 欢迎 Fork 和 Star ⭐，也欢迎提出建议和 PR～ 
 
