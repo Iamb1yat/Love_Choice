@@ -44,4 +44,10 @@ Love_Choice/
 
 ## License
 
-MIT License 
+MIT License © [Iamb1yat](https://github.com/Iamb1yat)
+
+欢迎 Fork 和 Star ⭐，也欢迎提出建议和 PR～ 
+
+---
+
+> 💌 希望这个小项目能帮你传达心意，记得告诉我使用后的故事哦～ 
