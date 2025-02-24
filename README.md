@@ -46,6 +46,8 @@ Love_Choice/
 
 MIT License © [Iamb1yat](https://github.com/Iamb1yat)
 
+## 支持
+
 欢迎 Fork 和 Star ⭐，也欢迎提出建议和 PR～ 
 
 ---
