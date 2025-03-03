@@ -40,12 +40,12 @@ Love_Choice/
 
 ## 🔗 相关链接
 
-- [在线演示](https://iamb1yat.github.io/Love_Choice/)
-- [项目介绍](https://iamb1yat.github.io/2025/02/14/Love_Choice/)
+- [在线演示](https://onef1shy.github.io/Love_Choice/)
+- [项目介绍](https://onef1shy.github.io/2025/02/14/Love_Choice/)
 
 ## 📄 许可证
 
-MIT License © [b1yat](https://github.com/Iamb1yat)
+MIT License © [onefishy](https://github.com/onef1shy)
 
 ## 💖 支持
 
